@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Jonzalez.github.io/rev/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/rev/v/45cdc606a9169f0b7c505daa1375912129709900/" />
+  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/rev/v/85586d4de8f3f3a50edc7bc6bd958a94a6fceeec/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/rev/v/45cdc606a9169f0b7c505daa1375912129709900/" />
+  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/rev/v/85586d4de8f3f3a50edc7bc6bd958a94a6fceeec/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/rev/v/45cdc606a9169f0b7c505daa1375912129709900/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/rev/v/85586d4de8f3f3a50edc7bc6bd958a94a6fceeec/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: defensins and cancer
 
 <small><em>
 This manuscript
-([permalink](https://Jonzalez.github.io/rev/v/45cdc606a9169f0b7c505daa1375912129709900/))
+([permalink](https://Jonzalez.github.io/rev/v/85586d4de8f3f3a50edc7bc6bd958a94a6fceeec/))
 was automatically generated
-from [Jonzalez/rev@45cdc60](https://github.com/Jonzalez/rev/tree/45cdc606a9169f0b7c505daa1375912129709900)
+from [Jonzalez/rev@85586d4](https://github.com/Jonzalez/rev/tree/85586d4de8f3f3a50edc7bc6bd958a94a6fceeec)
 on May 6, 2020.
 </em></small>
 
@@ -150,12 +150,12 @@ Antimicrobial peptides (AMP) have been isolated and characterized from a wide ra
 
 (AMP) are polypeptides of fewer than 100 amino acids contain a positive net charge (from +2 to +9), high lysine and arginine content, and a significant number of hydrophobic residues (≥30%) @doi:10.1038/nri1180.
 
-These properties permit the peptides to fold into amphipathic conformations upon contact with cell membranes, and the positively charged polar face help the molecules bind to the membrane through electrostatic interaction with the negatively charged head groups of phospholipids @doi:10.1002/(SICI)1097-0282(1998)47:6<415::AID-BIP2>3.0.CO;2-D. 
+These properties permit the peptides to fold into amphipathic conformations upon contact with cell membranes, and the positively charged polar face help the molecules bind to the membrane through electrostatic interaction with the negatively charged head groups of phospholipids @pmid:10333735  
 
 The history of AMPs dates back to 1922 with the discovery of lysozyme by Alexander Flemming. The first reported animal originated AMP is defensin, which was isolated from rabbit leukocytes in 1956 @doi:10.1084/jem.103.5.589. at the same time, it was also proven that human leukocytes contain AMPs in their lysosomes.
 
 
-They are found two families of antimicrobial peptides have been implicated in antimicrobial activity of phagocytes, inflammatory and epithelial secretions. Defensins are widely distributed in mammalian epithelial cells and phagocytes,@doi:10.1172/JCI112120. Cathelicidins are structurally and evolutionarily distinct antimicrobial peptides that are similar to defensins in abundance and distribution @doi:10.1016/0014-5793(95)01050-o
+They are found two families of antimicrobial peptides have been implicated in antimicrobial activity of phagocytes, inflammatory and epithelial secretions. Defensins are widely distributed in mammalian epithelial cells and phagocytes, @doi:10.1172/JCI112120. Cathelicidins are structurally and evolutionarily distinct antimicrobial peptides that are similar to defensins in abundance and distribution @doi:10.1016/0014-5793(95)01050-o
 
 
 ## References {.page_break_before}
