@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="defensins and cancer" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="defensins and cancer" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="defensins and cancer" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="defensins and cancer" />
 
   <meta name="dc.date" content="2020-05-06" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Jonzalez.github.io/rev/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/rev/v/1c9e1b76350165ca54a367588bf7c93726759f74/" />
+  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/rev/v/fa47c3000d61a745003ba4b062fca014621a1330/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/rev/v/1c9e1b76350165ca54a367588bf7c93726759f74/" />
+  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/rev/v/fa47c3000d61a745003ba4b062fca014621a1330/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/rev/v/1c9e1b76350165ca54a367588bf7c93726759f74/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/rev/v/fa47c3000d61a745003ba4b062fca014621a1330/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -93,7 +93,7 @@ manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: defensins and cancer
 ...
 
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://Jonzalez.github.io/rev/v/1c9e1b76350165ca54a367588bf7c93726759f74/))
+([permalink](https://Jonzalez.github.io/rev/v/fa47c3000d61a745003ba4b062fca014621a1330/))
 was automatically generated
-from [Jonzalez/rev@1c9e1b7](https://github.com/Jonzalez/rev/tree/1c9e1b76350165ca54a367588bf7c93726759f74)
+from [Jonzalez/rev@fa47c30](https://github.com/Jonzalez/rev/tree/fa47c3000d61a745003ba4b062fca014621a1330)
 on May 6, 2020.
 </em></small>
 
