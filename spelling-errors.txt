@@ -6,6 +6,7 @@ cationic
 cysteine
 cysteines
 defence
+defences
 defensin
 defensins
 disulphide
@@ -23,6 +24,8 @@ hBD
 HNP
 HPVF
 IAGERRYGT
+immunoadjuvant
+immunoregulatory
 intramolecular
 IYQGRLWAF
 jonzalez
@@ -35,6 +38,9 @@ LRKWDESLLNRTKP
 LYSA
 lysine
 lysozyme
+microbicidal
+microenvironment
+mobilise
 mucosal
 nonglycosylated
 phospholipids
@@ -52,6 +58,9 @@ RTGR
 RVRGGR
 STRGRK
 TRVD
+tumoral
+tumorigenic
+tumour
 TVMGINHRF
 TYA
 VSSGGQ
