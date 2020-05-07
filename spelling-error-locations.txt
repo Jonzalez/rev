@@ -104,5 +104,4 @@ content/02.Introduction.md:35:PN
 content/02.Introduction.md:35:RK
 content/02.Introduction.md:35:RSQEYRIGR
 content/02.Introduction.md:35:TYA
-content/03.Subclasses.md:1:defensins
-content/Subclasses-and-antimicrobial-activity-defensins.md:1:defensins
+content/03.Subclasses-and-antimicrobial-activity-defensins.md:1:defensins
