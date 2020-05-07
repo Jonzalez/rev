@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Jonzalez.github.io/rev/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/rev/v/fbaedb9b4c8281f97436aa85e9d6453c32687630/" />
+  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/rev/v/4f6e3d0b4f6b126091ad830a50dd03e409f9c5ea/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/rev/v/fbaedb9b4c8281f97436aa85e9d6453c32687630/" />
+  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/rev/v/4f6e3d0b4f6b126091ad830a50dd03e409f9c5ea/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/rev/v/fbaedb9b4c8281f97436aa85e9d6453c32687630/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/rev/v/4f6e3d0b4f6b126091ad830a50dd03e409f9c5ea/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: defensins and cancer
 
 <small><em>
 This manuscript
-([permalink](https://Jonzalez.github.io/rev/v/fbaedb9b4c8281f97436aa85e9d6453c32687630/))
+([permalink](https://Jonzalez.github.io/rev/v/4f6e3d0b4f6b126091ad830a50dd03e409f9c5ea/))
 was automatically generated
-from [Jonzalez/rev@fbaedb9](https://github.com/Jonzalez/rev/tree/fbaedb9b4c8281f97436aa85e9d6453c32687630)
+from [Jonzalez/rev@4f6e3d0](https://github.com/Jonzalez/rev/tree/4f6e3d0b4f6b126091ad830a50dd03e409f9c5ea)
 on May 7, 2020.
 </em></small>
 
@@ -137,7 +137,7 @@ on May 7, 2020.
 
  In humans, endogenous Antimicrobial peptides (AMP) are part of the immune system and act against pathogens. Defensins compose a class of AMPs that have activity against gram-positive and -negative bacteria and viruses.their role in innate immunity as microbicidal and immunoregulatory agents that orchestrate cross-talk with the adaptive immune system, and, most recently, their association with cancer. Defensins produced by cells in the course of innate host defence serve as signals which initiate, mobilise, and amplify adaptive immune host defences. Linkage of defensins to weak tumour antigens potentiates their immunoadjuvant effects. Defensins use multiple cellular receptors, which endows them with the capacity to marshall adaptive host defences against microbial invaders recently, findings related to specific activation pathways of some of defensins have led investigators to associate them with pro-tumoral activity, contributing to a tumorigenic microenvironment. This review summarizes current knowledge of defensins to discuss their role in tumour growth, tumour monitoring and cancer treatment, is substantial interest in the identification of circulating human tumor-derived proteins in serum for the purposes of early cancer diagnosis
 
-**Introduction** 
+## **Introduction** {.page_break_before}
 
 AMP have been isolated and characterized from a wide range of animal, plant and bacterial species and are known to play important roles in the host defence system and innate immunity @doi:10.1038/srep27394
 
@@ -153,7 +153,7 @@ for mammals, there are two main genetic categories for AMP, have been implicated
 The great diversity of AMP differs from one animal species to another. In this review I will focuson defensins because, in a medical  among all the antimicrobial peptides, defensins are particularly prominent in humans, as evidenced by the large number of expressed human genes @pmid:7589491 , the various forms that are present in human tissues, and the ubiquitous occurrence of defensins in inflamed or infected human tissues @doi:10.1038/nri1180. 
 
 
-Mammalian defensins are cationic AMP, with relatively arginine-rich nonglycosylated peptides with a molecular mass of 3.5–4.5 kDa. Their structure typically contains three intramolecular disulphide bridges between six cysteine residues @doi:10.1038/ni1206. As mentioned for AMP in general, the classification of defensins is based on their structure, which divides them into three groups: 𝛂-defensins, β-defensins, and  θ-defensins [7,8]. In 𝛂-defensins, intramolecular bonding occurs between cysteines 1-6, 2-4, and @doi:10.1080/13102818.2019.1611385, whereas in β-defensins it is between 1-5, 2-4, and 3-6 @pmid:10577203. Human defensins  are produced in leukocytes and are also secreted by different epithelial cells and mucosal tissues. These human peptides have antimicrobial activity against a large number of gram-positive and -negative bacteria, fungi, and viruses @doi:10.1016/0092-8674(91)90632-9. table 1 
+Mammalian defensins are cationic AMP, with relatively arginine-rich nonglycosylated peptides with a molecular mass of 3.5–4.5 kDa. Their structure typically contains three intramolecular disulphide bridges between six cysteine residues @doi:10.1038/ni1206. As mentioned for AMP in general, the classification of defensins is based on their structure, which divides them into three groups: 𝛂-defensins, β-defensins, and  θ-defensins. In 𝛂-defensins, intramolecular bonding occurs between cysteines 1-6, 2-4, and @doi:10.1080/13102818.2019.1611385, whereas in β-defensins it is between 1-5, 2-4, and 3-6 @pmid:10577203. Human defensins  are produced in leukocytes and are also secreted by different epithelial cells and mucosal tissues. These human peptides have antimicrobial activity against a large number of gram-positive and -negative bacteria, fungi, and viruses @pmid:1988144. table 1 
 
 | 𝛂-Defensins   |            sequence         | 
 |----------|:-------------:                   |
@@ -178,6 +178,12 @@ Mammalian defensins are cationic AMP, with relatively arginine-rich nonglycosyla
 	                                     
 	        
     
+
+defensins
+
+
+defensins
+1
 
 ## References {.page_break_before}
 
