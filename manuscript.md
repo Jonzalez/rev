@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Jonzalez.github.io/rev/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/rev/v/4f6e3d0b4f6b126091ad830a50dd03e409f9c5ea/" />
+  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/rev/v/a8e05ed4204ca04519fb57f7cf8c2b35d669b9cf/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/rev/v/4f6e3d0b4f6b126091ad830a50dd03e409f9c5ea/" />
+  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/rev/v/a8e05ed4204ca04519fb57f7cf8c2b35d669b9cf/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/rev/v/4f6e3d0b4f6b126091ad830a50dd03e409f9c5ea/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/rev/v/a8e05ed4204ca04519fb57f7cf8c2b35d669b9cf/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: defensins and cancer
 
 <small><em>
 This manuscript
-([permalink](https://Jonzalez.github.io/rev/v/4f6e3d0b4f6b126091ad830a50dd03e409f9c5ea/))
+([permalink](https://Jonzalez.github.io/rev/v/a8e05ed4204ca04519fb57f7cf8c2b35d669b9cf/))
 was automatically generated
-from [Jonzalez/rev@4f6e3d0](https://github.com/Jonzalez/rev/tree/4f6e3d0b4f6b126091ad830a50dd03e409f9c5ea)
+from [Jonzalez/rev@a8e05ed](https://github.com/Jonzalez/rev/tree/a8e05ed4204ca04519fb57f7cf8c2b35d669b9cf)
 on May 7, 2020.
 </em></small>
 
@@ -178,9 +178,6 @@ Mammalian defensins are cationic AMP, with relatively arginine-rich nonglycosyla
 	                                     
 	        
     
-
-defensins
-
 
 defensins
 1
