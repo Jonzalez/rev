@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Jonzalez.github.io/rev/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/rev/v/0c5acc3ca2201553727385b625ec36cf67e48479/" />
+  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/rev/v/916667f9c33996c07b5fd1cd693ac2ee35dad79f/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/rev/v/0c5acc3ca2201553727385b625ec36cf67e48479/" />
+  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/rev/v/916667f9c33996c07b5fd1cd693ac2ee35dad79f/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/rev/v/0c5acc3ca2201553727385b625ec36cf67e48479/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/rev/v/916667f9c33996c07b5fd1cd693ac2ee35dad79f/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: defensins and cancer
 
 <small><em>
 This manuscript
-([permalink](https://Jonzalez.github.io/rev/v/0c5acc3ca2201553727385b625ec36cf67e48479/))
+([permalink](https://Jonzalez.github.io/rev/v/916667f9c33996c07b5fd1cd693ac2ee35dad79f/))
 was automatically generated
-from [Jonzalez/rev@0c5acc3](https://github.com/Jonzalez/rev/tree/0c5acc3ca2201553727385b625ec36cf67e48479)
+from [Jonzalez/rev@916667f](https://github.com/Jonzalez/rev/tree/916667f9c33996c07b5fd1cd693ac2ee35dad79f)
 on May 8, 2020.
 </em></small>
 
@@ -189,14 +189,25 @@ The α-defensins were described, which have been isolated from the granules of p
 
 These six peptides are human α-defensins, whose typical structure consists of 29-35 amino acids [14]. (Table1) demonstrates the difference in structure between α- and b-defensins.
 
-α-defensins are synthesized as inactive prepro-α-defensins whose maturation requires the cleavage of a signal peptide to produce pro-α-defensins. Then, the NH2-terminal neutralizing pro fragment is cleaved by cellular proteases [@pmid:111296441; 1339298; 8601627]. Mature HNP-1, HNP-2 and HNP-3 appear to have similar bioactivities.
+α-defensins are synthesized as inactive prepro-α-defensins whose maturation requires the cleavage of a signal peptide to produce pro-α-defensins. Then, the NH2-terminal neutralizing pro fragment is cleaved by cellular proteases [ @pmid:111296441 ; 1339298 ; 8601627]. Mature HNP-1, HNP-2 and HNP-3 appear to have similar bioactivities.
 
 Mature HNP-1 3 are 3 kDa peptides comprising 6 characteristic, highly conserved cysteine residues and 3 intra-molecular disulfide bonds. HNP-2 is the smallest human defensin (29 amino-acids) and differs from HNP1 and HNP3 by the absence of only one, N-terminal amino-acid residue in HNP-1 is alanine and aspartate in HNP3 @pmid:19186224 
 
 
-β-defensins
+### β-defensins
+
+b-defensins are phylogenetically older and new family members continue to be identified, with approximately 40 potential coding regions on the human genome @pmid:16710608 .  A computational search strategy identified 28 new human β-defensin genes in five syntenic chromosomal regions. At least 26 of the predicted genes were found to be transcribed. @pmid: 23060878. hBD-1 was the first b-defensin discovered @pmid:17060476. Although hBD-1 expression is primarily restricted to epithelium, it has been detected in peripheral blood @pmid:12492457 and was originally isolated from plasma filtrates of patients with end stage renal disease [@pmid:17060476; @pmid:22102811]
+
+Actualy the platelets express and release hBD-1 protein in response to S. aureus-derived toxins. Platelets have also recently been shown to express and release hBD-3 protein. @pmid:22102811
+ 
+ 
+ β-defensins were traditionally viewed as exclusively antimicrobial molecules, as their induction in response to diverse bacterial, viral, parasitic and fungal infections was widely reported [@pmid:15557657 ; @pmid:19889461]. β-defensins are preferentially attracted to the negatively charged outer membranes of bacteria, with reported efficacy against bacteria, fungi and enveloped viruses (21). @pmid:30761155.
+ 
+ 
 
 
+
+Mechanism of Action
 
 ## References {.page_break_before}
 

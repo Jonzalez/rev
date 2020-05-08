@@ -1,3 +1,4 @@
+Actualy
 alanine
 amphipathic
 aspartate
@@ -61,6 +62,7 @@ neutrophils
 nonglycosylated
 Paneth
 phospholipids
+phylogenetically
 PIFTKIQGT
 PN
 polymorphonuclear
@@ -78,6 +80,7 @@ RTGR
 RVRGGR
 STRGRK
 Subclasses
+syntenic
 TRVD
 trypsin
 tumoral

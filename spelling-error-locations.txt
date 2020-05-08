@@ -156,3 +156,15 @@ content/03.Subclasses-and-antimicrobial-activity-defensins.md:33:HNP
 content/03.Subclasses-and-antimicrobial-activity-defensins.md:33:intra
 content/03.Subclasses-and-antimicrobial-activity-defensins.md:33:kDa
 content/03.Subclasses-and-antimicrobial-activity-defensins.md:36:defensins
+content/03.Subclasses-and-antimicrobial-activity-defensins.md:38:defensin
+content/03.Subclasses-and-antimicrobial-activity-defensins.md:38:defensin
+content/03.Subclasses-and-antimicrobial-activity-defensins.md:38:defensins
+content/03.Subclasses-and-antimicrobial-activity-defensins.md:38:hBD
+content/03.Subclasses-and-antimicrobial-activity-defensins.md:38:hBD
+content/03.Subclasses-and-antimicrobial-activity-defensins.md:38:phylogenetically
+content/03.Subclasses-and-antimicrobial-activity-defensins.md:38:syntenic
+content/03.Subclasses-and-antimicrobial-activity-defensins.md:40:Actualy
+content/03.Subclasses-and-antimicrobial-activity-defensins.md:40:hBD
+content/03.Subclasses-and-antimicrobial-activity-defensins.md:40:hBD
+content/03.Subclasses-and-antimicrobial-activity-defensins.md:43:defensins
+content/03.Subclasses-and-antimicrobial-activity-defensins.md:43:defensins
