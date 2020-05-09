@@ -4,7 +4,7 @@ author-meta:
 - null
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-08'
+date-meta: '2020-05-09'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="defensins and cancer" />
 
-  <meta name="dc.date" content="2020-05-08" />
+  <meta name="dc.date" content="2020-05-09" />
 
-  <meta name="citation_publication_date" content="2020-05-08" />
+  <meta name="citation_publication_date" content="2020-05-09" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Jonzalez.github.io/rev/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/rev/v/916667f9c33996c07b5fd1cd693ac2ee35dad79f/" />
+  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/rev/v/a09b17d641f2d4761b4f2038017a2e5cbba73aff/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/rev/v/916667f9c33996c07b5fd1cd693ac2ee35dad79f/" />
+  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/rev/v/a09b17d641f2d4761b4f2038017a2e5cbba73aff/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/rev/v/916667f9c33996c07b5fd1cd693ac2ee35dad79f/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/rev/v/a09b17d641f2d4761b4f2038017a2e5cbba73aff/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,10 +103,10 @@ title: defensins and cancer
 
 <small><em>
 This manuscript
-([permalink](https://Jonzalez.github.io/rev/v/916667f9c33996c07b5fd1cd693ac2ee35dad79f/))
+([permalink](https://Jonzalez.github.io/rev/v/a09b17d641f2d4761b4f2038017a2e5cbba73aff/))
 was automatically generated
-from [Jonzalez/rev@916667f](https://github.com/Jonzalez/rev/tree/916667f9c33996c07b5fd1cd693ac2ee35dad79f)
-on May 8, 2020.
+from [Jonzalez/rev@a09b17d](https://github.com/Jonzalez/rev/tree/a09b17d641f2d4761b4f2038017a2e5cbba73aff)
+on May 9, 2020.
 </em></small>
 
 ## Authors
@@ -185,11 +185,11 @@ Although these disulfide bonds in cytheins appear to have a close relationship w
 |  hBD-4	 |EFELDRI<span style="color:red">C</span>GYGTAR<span style="color:red">C</span>RK-K<span style="color:red">C</span>RSQEYRIGR<span style="color:red">C</span>PN-TYA<span style="color:red">CC</span>LRKWDESLLNRTKP 
 
 ### α-defensins
-The α-defensins were described, which have been isolated from the granules of polymorphonuclear neutrophil leukocytes. Because of their distribution in the granules of the leucocytes, they were named human neutrophil peptides 1-4 (HNP1-4) @pmid:11786250 They are constitutively produced by myeloid precursor cells. However, recent reports suggest that their production can be induced by activated CD8 T cells as well p@mid:12183052,  in contrast, HD-5 and HD-6 are enteric defensins stored in the granules of Paneth cells, processing of ‘pro-HD-5’ is mediated by one or more isoforms of Paneth cell trypsin 24 . Although the main sites of human α-defensins production are leukocytes and Paneth cells, the human famale reproductive tract expresses HD-5, When induced to degranulate, neutrophils and Paneth cells release these α defensins locally @pmid:22642099.
+The α-defensins were described, which have been isolated from the granules of polymorphonuclear neutrophil leukocytes. Because of their distribution in the granules of the leucocytes, they were named human neutrophil peptides 1-4 (HNP1-4) @pmid:11786250 They are constitutively produced by myeloid precursor cells. However, recent reports suggest that their production can be induced by activated CD8 T cells as well @pmid:12183052,  in contrast, HD-5 and HD-6 are enteric defensins stored in the granules of Paneth cells, processing of ‘pro-HD-5’ is mediated by one or more isoforms of Paneth cell trypsin 24 . Although the main sites of human α-defensins production are leukocytes and Paneth cells, the human famale reproductive tract expresses HD-5, When induced to degranulate, neutrophils and Paneth cells release these α defensins locally @pmid:22642099.
 
-These six peptides are human α-defensins, whose typical structure consists of 29-35 amino acids [14]. (Table1) demonstrates the difference in structure between α- and b-defensins.
+These six peptides are human α-defensins, whose typical structure consists of 29-35 amino acids. (Table1) demonstrates the difference in structure between α- and b-defensins.
 
-α-defensins are synthesized as inactive prepro-α-defensins whose maturation requires the cleavage of a signal peptide to produce pro-α-defensins. Then, the NH2-terminal neutralizing pro fragment is cleaved by cellular proteases [ @pmid:111296441 ; 1339298 ; 8601627]. Mature HNP-1, HNP-2 and HNP-3 appear to have similar bioactivities.
+α-defensins are synthesized as inactive prepro-α-defensins whose maturation requires the cleavage of a signal peptide to produce pro-α-defensins. Then, the NH2-terminal neutralizing pro fragment is cleaved by cellular proteases [@pmid:111296441; @pmid:1339298; @pmid:8601627]. Mature HNP-1, HNP-2 and HNP-3 appear to have similar bioactivities.
 
 Mature HNP-1 3 are 3 kDa peptides comprising 6 characteristic, highly conserved cysteine residues and 3 intra-molecular disulfide bonds. HNP-2 is the smallest human defensin (29 amino-acids) and differs from HNP1 and HNP3 by the absence of only one, N-terminal amino-acid residue in HNP-1 is alanine and aspartate in HNP3 @pmid:19186224 
 
@@ -201,13 +201,30 @@ b-defensins are phylogenetically older and new family members continue to be ide
 Actualy the platelets express and release hBD-1 protein in response to S. aureus-derived toxins. Platelets have also recently been shown to express and release hBD-3 protein. @pmid:22102811
  
  
- β-defensins were traditionally viewed as exclusively antimicrobial molecules, as their induction in response to diverse bacterial, viral, parasitic and fungal infections was widely reported [@pmid:15557657 ; @pmid:19889461]. β-defensins are preferentially attracted to the negatively charged outer membranes of bacteria, with reported efficacy against bacteria, fungi and enveloped viruses (21). @pmid:30761155.
+ β-defensins were traditionally viewed as exclusively antimicrobial molecules, as their induction in response to diverse bacterial, viral, parasitic and fungal infections was widely reported [@pmid:15557657; @pmid:19889461]. β-defensins are preferentially attracted to the negatively charged outer membranes of bacteria, with reported efficacy against bacteria, fungi and enveloped viruses. @pmid:30761155.
  
  
 
 
 
-Mechanism of Action
+##Mechanism of Action
+
+The classical mechanism of action of cationic AMPs, such as defensins, is the disruption of the anionic bacterial membrane @pmid:24828484 . This way, bacterial destruction occurs by the interaction between the electrostatic forces of positively charged amino acids and the negatively charged cell surface [@pmid:17303777; @doi:10.1080/13102818.2019.1611385] .
+
+Bacterial membranes are rich in negatively charged phospholipids, such as phosphatidyl-glycerol (PG), cardiolipin (CL), and phosphatidylserine (PS); these are 2þ 2þ stabilized by bivalent cations such as Mg+2 and Ca+2. Gram-negative bacteria have an additional lipopolysaccharide rich outer membrane, which stands as a barrier to the cytoplasmic membrane. On the other hand, human cells are rich in neutrally charged phospholipids, such as phosphatidylethanolamine (PE), phosphatidylcholine (PC), and sphingomyelin (SM). In humans, the interaction with AMPs is even less likely because of the presence of cholesterol, which affects the fluidity of phospholipids in the membrane and increases its stability [49].
+
+As for the membrane-permeabilizing mechanism, different models of interaction have been proposed (a) Barrel- stave pore model, in which the HDPs form dimers or multi- mers that cross the membrane forming barrel-like channels (Matsuzaki et al. 1991; Ben-Efraim and Shai 1997); (b) Toroidal pore model, in which the peptide forms a monolayer by con- necting the outer and the inner lipid layers in the pore (Mor and Nicolas 1994); (c) Carpet model, where HDPs form a carpet-like structure covering the outer surface of the membrane acting like detergents disrupting the bacterial membrane (Oren and Shai 1998)
+
+
+In a recent work, Mathew and Nagaraj proposed the ability of HD5 to strongly bind DNA as the basis of its mechanism of action, suggesting that this interac- tion may inhibit essential processes associated with DNA repli- cation, transcription or translation of important genes
+
+the defensisn has more impliction, Defensin binding to viral attachment proteins could disrupt receptor interactions critical for viral entry into the cell. HNP1-3, HD5, and hBD-3 bind a recombinant viral glycoprotein (gB) of both HSV-1 and HSV-2, which correlates with the ability of these defensins to inhibit HSV-1 and HSV-2 entry and adhesion @pmid:28715972
+
+Viral infection can also induce defensin expression. For example, human rhinovirus induces hBD-2 in primary human epithelial cell cultures, although hBD-2 has no direct antiviral effect on the virus @pmid:24095897. Another example of how defensins can not only attack the pathogen, but can also induce the response of the immune system is β-Defensins exert regulatory activity in host innate and adaptive immune responses. For example, mouse β-defensin 2 activates Immature dendritic cells (DCs)  via  Toll-like receptor (TLR4), triggering a Th1 lymphocytes response, and human β-defensin 3 activates Ag-presenting cells (APCs) via TLR1 and TLR2 in an NF-κB-dependent manner [@pmid:18006661; @pmid:31126693]
+
+
+Now a day we continue to discover new functions of the defensins, and therefore the mechanisms of action have not yet been fully elucidated, for example studies report that the use of human defenses to regulate host metabolism and mitigate dyslipidemia, and non alcoholic fatty liver disease NAFLD pmid:30860877. however, hard work is still being done to try to understand all the functions of the defensins, as well as their mechanisms of action. 
+
 
 ## References {.page_break_before}
 
