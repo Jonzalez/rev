@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Jonzalez.github.io/rev/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/rev/v/2f111a8d71e30c375e6ef76333b8e8ba982dd32a/" />
+  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/rev/v/cbea492287f11f74f45529d0c3d1416736570a63/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/rev/v/2f111a8d71e30c375e6ef76333b8e8ba982dd32a/" />
+  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/rev/v/cbea492287f11f74f45529d0c3d1416736570a63/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/rev/v/2f111a8d71e30c375e6ef76333b8e8ba982dd32a/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/rev/v/cbea492287f11f74f45529d0c3d1416736570a63/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: defensins and cancer
 
 <small><em>
 This manuscript
-([permalink](https://Jonzalez.github.io/rev/v/2f111a8d71e30c375e6ef76333b8e8ba982dd32a/))
+([permalink](https://Jonzalez.github.io/rev/v/cbea492287f11f74f45529d0c3d1416736570a63/))
 was automatically generated
-from [Jonzalez/rev@2f111a8](https://github.com/Jonzalez/rev/tree/2f111a8d71e30c375e6ef76333b8e8ba982dd32a)
+from [Jonzalez/rev@cbea492](https://github.com/Jonzalez/rev/tree/cbea492287f11f74f45529d0c3d1416736570a63)
 on May 13, 2020.
 </em></small>
 
@@ -209,11 +209,11 @@ Actualy the platelets express and release hBD-1 protein in response to S. aureus
 
 ## Mechanism of Action
 
-The classical mechanism of action of cationic AMPs, such as defensins, is the disruption of the anionic bacterial membrane @pmid:24828484 . This way, bacterial destruction occurs by the interaction between the electrostatic forces of positively charged amino acids and the negatively charged cell surface [@pmid:17303777; @doi:10.1080/13102818.2019.1611385] .
+The classical mechanism of action of cationic AMPs, such as defensins, is the disruption of the anionic bacterial membrane @pmid:24828484 . This way, bacterial destruction occurs by the interaction between the electrostatic forces of positively charged amino acids and the negatively charged cell surface @pmid:17303777.
 
 Bacterial membranes are rich in negatively charged phospholipids, such as phosphatidyl-glycerol (PG), cardiolipin (CL), and phosphatidylserine (PS); these are 2þ 2þ stabilized by bivalent cations such as Mg+2 and Ca+2. Gram-negative bacteria have an additional lipopolysaccharide rich outer membrane, which stands as a barrier to the cytoplasmic membrane. On the other hand, human cells are rich in neutrally charged phospholipids, such as phosphatidylethanolamine (PE), phosphatidylcholine (PC), and sphingomyelin (SM). In humans, the interaction with AMPs is even less likely because of the presence of cholesterol, which affects the fluidity of phospholipids in the membrane and increases its stability [@pmid:29694838; @doi:10.1080/13102818.2019.1611385]
 
-As for the membrane-permeabilizing mechanism, different models of interaction have been proposed (a) Barrel-stave pore model, in which the HDPs form dimers or multimers that cross the membrane forming barrel-like channels @pmid: 15582982 (b) Toroidal pore model, in which the peptide forms a monolayer by connecting the outer and the inner lipid layers in the pore @:pmid 25374459 (c) Carpet model, where HDPs form a carpet-like structure covering the outer surface of the membrane acting like detergents disrupting the bacterial membrane @pmid:29694838 
+As for the membrane-permeabilizing mechanism, different models of interaction have been proposed (a) Barrel-stave pore model, in which the HDPs form dimers or multimers that cross the membrane forming barrel-like channels @pmid:15582982 (b) Toroidal pore model, in which the peptide forms a monolayer by connecting the outer and the inner lipid layers in the pore @:pmid 25374459 (c) Carpet model, where HDPs form a carpet-like structure covering the outer surface of the membrane acting like detergents disrupting the bacterial membrane @pmid:29694838 
 
 
 In a recent work, Mathew and Nagaraj proposed the ability of HD5 to strongly bind DNA as the basis of its mechanism of action, suggesting that this interaction may inhibit essential processes associated with DNA replication, transcription or translation of important genes [@pmid:28521337; @pmid:26206286]

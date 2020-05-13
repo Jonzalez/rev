@@ -17,7 +17,7 @@ DCs
 defence
 defences
 defensin
-defensins
+Defensins
 defensisn
 degranulate
 dendritic
