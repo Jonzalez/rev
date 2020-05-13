@@ -4,7 +4,7 @@ author-meta:
 - null
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-09'
+date-meta: '2020-05-13'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="defensins and cancer" />
 
-  <meta name="dc.date" content="2020-05-09" />
+  <meta name="dc.date" content="2020-05-13" />
 
-  <meta name="citation_publication_date" content="2020-05-09" />
+  <meta name="citation_publication_date" content="2020-05-13" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Jonzalez.github.io/rev/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/rev/v/a09b17d641f2d4761b4f2038017a2e5cbba73aff/" />
+  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/rev/v/39bc33bee808111986bc0178e4aa1d9578b8dfb5/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/rev/v/a09b17d641f2d4761b4f2038017a2e5cbba73aff/" />
+  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/rev/v/39bc33bee808111986bc0178e4aa1d9578b8dfb5/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/rev/v/a09b17d641f2d4761b4f2038017a2e5cbba73aff/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/rev/v/39bc33bee808111986bc0178e4aa1d9578b8dfb5/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,10 +103,10 @@ title: defensins and cancer
 
 <small><em>
 This manuscript
-([permalink](https://Jonzalez.github.io/rev/v/a09b17d641f2d4761b4f2038017a2e5cbba73aff/))
+([permalink](https://Jonzalez.github.io/rev/v/39bc33bee808111986bc0178e4aa1d9578b8dfb5/))
 was automatically generated
-from [Jonzalez/rev@a09b17d](https://github.com/Jonzalez/rev/tree/a09b17d641f2d4761b4f2038017a2e5cbba73aff)
-on May 9, 2020.
+from [Jonzalez/rev@39bc33b](https://github.com/Jonzalez/rev/tree/39bc33bee808111986bc0178e4aa1d9578b8dfb5)
+on May 13, 2020.
 </em></small>
 
 ## Authors
@@ -211,12 +211,12 @@ Actualy the platelets express and release hBD-1 protein in response to S. aureus
 
 The classical mechanism of action of cationic AMPs, such as defensins, is the disruption of the anionic bacterial membrane @pmid:24828484 . This way, bacterial destruction occurs by the interaction between the electrostatic forces of positively charged amino acids and the negatively charged cell surface [@pmid:17303777; @doi:10.1080/13102818.2019.1611385] .
 
-Bacterial membranes are rich in negatively charged phospholipids, such as phosphatidyl-glycerol (PG), cardiolipin (CL), and phosphatidylserine (PS); these are 2þ 2þ stabilized by bivalent cations such as Mg+2 and Ca+2. Gram-negative bacteria have an additional lipopolysaccharide rich outer membrane, which stands as a barrier to the cytoplasmic membrane. On the other hand, human cells are rich in neutrally charged phospholipids, such as phosphatidylethanolamine (PE), phosphatidylcholine (PC), and sphingomyelin (SM). In humans, the interaction with AMPs is even less likely because of the presence of cholesterol, which affects the fluidity of phospholipids in the membrane and increases its stability [49].
+Bacterial membranes are rich in negatively charged phospholipids, such as phosphatidyl-glycerol (PG), cardiolipin (CL), and phosphatidylserine (PS); these are 2þ 2þ stabilized by bivalent cations such as Mg+2 and Ca+2. Gram-negative bacteria have an additional lipopolysaccharide rich outer membrane, which stands as a barrier to the cytoplasmic membrane. On the other hand, human cells are rich in neutrally charged phospholipids, such as phosphatidylethanolamine (PE), phosphatidylcholine (PC), and sphingomyelin (SM). In humans, the interaction with AMPs is even less likely because of the presence of cholesterol, which affects the fluidity of phospholipids in the membrane and increases its stability [@pmid:29694838; doi:10.1080/13102818.2019.1611385]
 
-As for the membrane-permeabilizing mechanism, different models of interaction have been proposed (a) Barrel- stave pore model, in which the HDPs form dimers or multi- mers that cross the membrane forming barrel-like channels (Matsuzaki et al. 1991; Ben-Efraim and Shai 1997); (b) Toroidal pore model, in which the peptide forms a monolayer by con- necting the outer and the inner lipid layers in the pore (Mor and Nicolas 1994); (c) Carpet model, where HDPs form a carpet-like structure covering the outer surface of the membrane acting like detergents disrupting the bacterial membrane (Oren and Shai 1998)
+As for the membrane-permeabilizing mechanism, different models of interaction have been proposed (a) Barrel-stave pore model, in which the HDPs form dimers or multimers that cross the membrane forming barrel-like channels @pmid: 15582982 (b) Toroidal pore model, in which the peptide forms a monolayer by connecting the outer and the inner lipid layers in the pore @:pmid 25374459 (c) Carpet model, where HDPs form a carpet-like structure covering the outer surface of the membrane acting like detergents disrupting the bacterial membrane @pmid:29694838 
 
 
-In a recent work, Mathew and Nagaraj proposed the ability of HD5 to strongly bind DNA as the basis of its mechanism of action, suggesting that this interac- tion may inhibit essential processes associated with DNA repli- cation, transcription or translation of important genes
+In a recent work, Mathew and Nagaraj proposed the ability of HD5 to strongly bind DNA as the basis of its mechanism of action, suggesting that this interaction may inhibit essential processes associated with DNA replication, transcription or translation of important genes [@pmid:28521337; @pmid:26206286]
 
 the defensisn has more impliction, Defensin binding to viral attachment proteins could disrupt receptor interactions critical for viral entry into the cell. HNP1-3, HD5, and hBD-3 bind a recombinant viral glycoprotein (gB) of both HSV-1 and HSV-2, which correlates with the ability of these defensins to inhibit HSV-1 and HSV-2 entry and adhesion @pmid:28715972
 
@@ -225,6 +225,13 @@ Viral infection can also induce defensin expression. For example, human rhinovir
 
 Now a day we continue to discover new functions of the defensins, and therefore the mechanisms of action have not yet been fully elucidated, for example studies report that the use of human defenses to regulate host metabolism and mitigate dyslipidemia, and non alcoholic fatty liver disease NAFLD pmid:30860877. however, hard work is still being done to try to understand all the functions of the defensins, as well as their mechanisms of action. 
 
+
+## Defensins and cancer 
+
+
+
+
+ 
 
 ## References {.page_break_before}
 
